@@ -1,27 +1,27 @@
 # Create Contact Form with PHP, Bootstrap, jQuery
 
-##What Knowlodge We Need?
+## What Knowlodge We Need?
 - Html, Css
 - PHP [GET , POST, REQUEST, Mail]
 - Bootstrap [ gerbootstrap.com ]
 - jQuery
 
-##Libararies and Frameworks to Use
+## Libararies and Frameworks to Use
 - Bootstrap
 - jQuery
 - FontAwesome
 
-##Tools to Start
+## Tools to Start
 - For Localhost [ Xampp ]
 - For Website [ FTP Client ] Filezilla
 - Text Editor [Brakets ]
 
-##Form Features
+## Form Features
 - Responsive
 - Validation From Client Side
 - Validation From Server Side
 - Simple & Clean Code
 
-##Recommendation
+## Recommendation
 - Google Recaptcha
 - PHPMailer [ SMRP For Sending Emails ]
