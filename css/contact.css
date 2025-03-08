@@ -1,0 +1,39 @@
+body {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+.contact-form {
+  max-width: 450px;
+  margin: 50px auto;
+}
+
+
+.contact-text {
+  height: 180px;
+  margin-bottom: 10px;
+}
+
+.contact-form input:not([type="submit"])+i {
+  color: #6c757d;
+  float: left;
+  position: relative;
+  left: 10px;
+  bottom: 26px;
+}
+
+.contact-form input {
+  padding-left: 35px;
+}
+
+.contact-form .send-icone {
+  color: white;
+  position: relative;
+  right: 157px;
+  top: 2px;
+}
